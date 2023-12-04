@@ -1,0 +1,21 @@
+/* Adjust the map container */
+
+#map {
+    height: 400px;
+}
+
+
+/* Style the form container */
+
+.form-container {
+    padding: 100px;
+    /* Add some padding for better spacing */
+}
+
+
+/* Optional: Style the form fields */
+
+.coordinates-form {
+    width: 100%;
+    /* Make the form take the full width of its container */
+}
